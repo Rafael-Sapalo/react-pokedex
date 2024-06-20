@@ -30,3 +30,13 @@ Follow these steps to get the project running locally:
    ```bash
    git clone <repository-url>
    ```
+2. **Install the dependencies:**
+   ```bash
+   npm install
+   ```
+3. ** Start the development server:**
+   ```bash
+   npm run dev
+   ```
+4. **Open the application:**
+   Go to `http://localhost:3000` in your browser.
